@@ -79,12 +79,12 @@
 
 
     {{-- footer --}}
-    <div class="bg-yellow-950 w-screen p-8 flex items-center">
-        <div class="flex items-center">
-            <img class="h-[150px] object-contain mr-2" src="https://images.fineartamerica.com/images/artworkimages/medium/3/spongebob-squarepants-pastel-krusty-krab-lucas-amylee-transparent.png" alt="">
-            <h1 class="glow-text text-3xl md:text-4xl lg:text-5xl tracking-wider text-white bangers-regular">Krusty Krab</h1>
+    <div class="bg-yellow-950 w-screen p-5 sm:p-8 flex items-center">
+        <div class="flex flex-col sm:flex-row items-center mr-8">
+            <img class="h-[150px] object-contain" src="https://images.fineartamerica.com/images/artworkimages/medium/3/spongebob-squarepants-pastel-krusty-krab-lucas-amylee-transparent.png" alt="">
+            <h1 class="glow-text text-xl sm:text-3xl md:text-4xl lg:text-5xl tracking-wider text-white bangers-regular">Krusty Krab</h1>
         </div>
-        <div class="ml-auto">
+        <div class="ml-auto sm:text-base text-sm">
             <p class="text-white">124 Conch Street, Bikini Bottom</p>
             <p class="text-white my-3">+88 8121238912631</p>
             <p class="text-white">since 1999</p>
