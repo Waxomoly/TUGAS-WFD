@@ -145,7 +145,7 @@
     </div>
 
 
-    <div class="w-full min-h-screen flex flex-col items-center relative bg-yellow-800 py-16 px-8  lg:py-20">
+    <div class="w-full min-h-screen flex flex-col items-center justify-center relative bg-yellow-800 py-16 px-8  lg:py-20">
         <p class="mb-16 text-3xl md:text-4xl lg:text-5xl bangers-regular text-white tracking-wider glow-text-2">UPCOMING EVENT</p>
         <img class="max-h-[400px]" src="https://i.redd.it/yaxr2tu6f1gc1.jpeg" alt="">
         <p class="mt-6 text-white drop-shadow-lg font-bold text-base sm:text-lg lg:text-xl">Boys Don't Cry Tribute</p>
